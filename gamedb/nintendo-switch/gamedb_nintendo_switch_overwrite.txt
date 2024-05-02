@@ -1,0 +1,15 @@
+GRANDIA HD Collection (US) [0100E0600BBC8000] | GRANDIA HD Collection (UPD) [0100E0600BBC8800][v327680].xci
+It Takes Two (US) [010092A0172E4000] | It Takes Two (UPD) [010092A0172E4800][v131072].xci
+DEEMO (US) [01002CC0062B8000] | DEEMO (UPD) [01002CC0062B8800][v393216].xci
+Super Mario Odyssey (US) [0100000000010000] | Super Mario Odyssey (UPD) [0100000000010800][v131072].xci
+Dr Kawashima's Brain Training for Nintendo Switch (GB) [0100ED000D390000] | Dr Kawashima's Brain Training for Nintendo Switch (UPD) [0100ED000D390800][v65536].xci
+The Legend of Zelda Breath of the Wild (US) [01007EF00011E000] | The Legend of Zelda Breath of the Wild (UPD) [01007EF00011E800][v720896].xci
+KINGDOM HEARTS Melody of Memory (US) [01005D2011EA8000] | KINGDOM HEARTS Melody of Memory (UPD) [01005D2011EA8800][v65536].xci
+Tactics Ogre Reborn (US) [0100E12013C1A000] | Tactics Ogre Reborn (UPD) [0100E12013C1A800][v65536].nsp
+Mario Kart 8 Deluxe (US) [0100152000022000] | Mario Kart 8 Deluxe (UPD) [0100152000022800][v327680].xci
+The Walking Dead The Final Season - Season Pass (US) [010060F00AA70000] | The Walking Dead The Final Season - Season Pass (UPD) [010060F00AA70800][v131072].xci
+Super Bomberman R (US) [01007AD00013E000] | Super Bomberman R (UPD) [01007AD00013E800][v458752].xci
+The Escapists 2 (US) [0100CA100489C000] | The Escapists 2 (UPD) [0100CA100489C800][v65536].xci
+Rogue Legacy (US) [010056500AD50000] | Rogue Legacy (UPD) [010056500AD50800][v65536].xci
+Kirby Star Allies (US) [01007E3006DDA000] | Kirby Star Allies (UPD) [01007E3006DDA800][v327680].xci
+Mysterious Gensokyo TOD -RELOADED- (UPD) (UPD) (UPD)  (JP) [010033500944A000] | Mysterious Gensokyo TOD -RELOADED- (UPD) (UPD) (UPD)  [010033500944A000][v0].xci

@@ -1,0 +1,15 @@
+{
+    "sets": [       
+        {
+            "platform": "nintendo-switch",
+            "enable": true,
+            "config": {
+                "rom_dir": "z:\\roms-noset\\nintendo-switch", 
+                "template_dir": "templates\\nintendo-switch",
+                "keymap_dir": "keymapping\\nintendo-switch",
+                "gametitle_dir": "gametitles\\nintendo-switch",
+                "gamedb_overwrite_file": "gamedb\\nintendo-switch\\gamedb_nintendo_switch_overwrite.txt"
+            }
+        }              
+    ]
+}
